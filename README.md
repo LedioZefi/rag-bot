@@ -1,4 +1,4 @@
-# Intelligent Document Q&A Bot
+# Intelligent RAG Document Q&A Bot 
 
 This project is a simple but functional document question–answering bot built with **LangChain** and **Retrieval-Augmented Generation (RAG)**.  
 It lets you upload your own text or PDF files, index them, and then ask natural language questions that get answered using only those documents.
